@@ -60,17 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Hello Microverse Project** is a simple project with one message in html file says "Hello Microverse", the main purpose of this project is to learn how to add linter to a project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> The projet has only one pull and one push, and three braches.
 
 <details>
   <summary>Client</summary>
@@ -97,11 +95,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Can be used and example to show how linter works.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Great Vistiers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +140,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:mohametalmeari/Hello-Microverse.git
 ```
 --->
 
@@ -207,15 +203,15 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://https://github.com/mohametalmeari/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/MohametAlmeari)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamet-almeari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +221,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **JavaScript File**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +241,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project feel free to reuse it and add to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +251,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse team for helping me learning how to use linter in my projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +261,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How to add Linter to my Project**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - Follow the steps in this link https://github.com/microverseinc/linters-config
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
