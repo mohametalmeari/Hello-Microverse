@@ -1,33 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
+  <img src="logo_mo_almeari.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -62,13 +37,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse Project <a name="about-project"></a>
 
-**Hello Microverse Project** is a simple project with one message in html file says "Hello Microverse", the main purpose of this project is to learn how to add linter to a project.
+**Hello Microverse Project** is a simple project with one message in html file says "Hello Microverse!", the main purpose of this project is to learn how to add linter to a project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The projet has only one pull and one push, and three braches.
+> This project was built with HTML and CSS.
 
 <details>
   <summary>Client</summary>
@@ -95,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Can be used and example to show how linter works.
+> Can be used as an example to how linter works.
 
 - **Great Vistiers**
 
@@ -105,9 +80,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> See the project on GitHub
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://github.com/mohametalmeari/Hello-Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> Copy linter.yml, .hintrc and .stylelintrc.json files to your project folder in order to apply html and css linter on your project. Make sure to put linter.yml file in the same folders path, otherwise linter will not work properly. 
 
 To get a local copy up and running, follow these steps.
 
@@ -135,63 +110,48 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:mohametalmeari/Hello-Microverse.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd my-project
   gem install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
 ```sh
   rails server
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
 
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
+
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
 
 ```sh
 
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,17 +159,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> This project was done by Mohamad Mari.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://https://github.com/mohametalmeari/)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/mohametalmeari)
 - Twitter: [@twitterhandle](https://twitter.com/MohametAlmeari)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamet-almeari)
 
@@ -219,9 +173,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> JavaScript file will be added with linter for Javascript.
 
 - [ ] **JavaScript File**
+- [ ] **JavaScript Linter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,7 +194,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> This Project is open source!
 
 If you like this project feel free to reuse it and add to it.
 
@@ -249,7 +204,7 @@ If you like this project feel free to reuse it and add to it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Thank You Microverse!
 
 I would like to thank Microverse team for helping me learning how to use linter in my projects.
 
@@ -257,10 +212,9 @@ I would like to thank Microverse team for helping me learning how to use linter 
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
+  
 - **How to add Linter to my Project**
 
   - Follow the steps in this link https://github.com/microverseinc/linters-config
@@ -273,6 +227,5 @@ I would like to thank Microverse team for helping me learning how to use linter 
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
