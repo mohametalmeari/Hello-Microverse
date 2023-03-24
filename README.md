@@ -5,7 +5,6 @@
   <img src="logo_mo_almeari.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-
   <h3><b>Hello Microverse README</b></h3>
 
 </div>
