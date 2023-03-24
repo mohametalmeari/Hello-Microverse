@@ -29,7 +29,7 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Acknowlednpments](#acknowlednpments)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -48,21 +48,8 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
   </ul>
 </details>
 
@@ -94,17 +81,6 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -121,7 +97,7 @@ Install this project with:
 
 ```sh
   cd my-project
-  gem install
+  npm install
 ```
 
 ### Usage
@@ -129,28 +105,11 @@ Install this project with:
 To run the project, execute the following command:
 
 
-```sh
-  rails server
-```
-
 ### Run tests
 
-To run tests, run the following command:
+How to open your project in the browser? 
+Double click on HTML file and the HTML file will be open in your browser.
 
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
-
-
-### Deployment
-
-You can deploy this project using:
-
-
-```sh
-
-```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -200,9 +159,9 @@ If you like this project feel free to reuse it and add to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDnpmENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowlednpments"></a>
 
 > Thank You Microverse!
 
@@ -225,7 +184,7 @@ I would like to thank Microverse team for helping me learning how to use linter 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
